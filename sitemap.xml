@@ -1,25 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>
-            http://abradburne.github.io/alanbradburne-blog/blog/2008/10/14/future-of-web-apps/
-        </loc>
+        <loc>http://alanbradburne.com/blog/2008/10/14/future-of-web-apps/</loc>
         <lastmod>2013-05-19T16:44:28+09:00</lastmod>
     </url>
     <url>
-        <loc>http://abradburne.github.io/alanbradburne-blog/blog/2010/03/10/nosql-talk/</loc>
+        <loc>http://alanbradburne.com/blog/2010/03/10/nosql-talk/</loc>
         <lastmod>2013-05-19T16:32:30+09:00</lastmod>
     </url>
     <url>
-        <loc>http://abradburne.github.io/alanbradburne-blog/blog/archives/</loc>
+        <loc>http://alanbradburne.com/blog/archives/</loc>
         <lastmod>2013-05-19T16:44:28+09:00</lastmod>
     </url>
     <url>
-        <loc>http://abradburne.github.io/alanbradburne-blog/</loc>
+        <loc>http://alanbradburne.com/</loc>
         <lastmod>2013-05-19T16:44:28+09:00</lastmod>
     </url>
     <url>
-        <loc>http://abradburne.github.io/alanbradburne-blog/robots.txt</loc>
+        <loc>http://alanbradburne.com/robots.txt</loc>
         <lastmod>2013-05-19T15:05:06+09:00</lastmod>
     </url>
 </urlset>
