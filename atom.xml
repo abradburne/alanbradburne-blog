@@ -4,7 +4,7 @@
   <title><![CDATA[Alan Bradburne]]></title>
   <link href="http://alanbradburne.com/atom.xml" rel="self"/>
   <link href="http://alanbradburne.com/"/>
-  <updated>2013-05-19T17:00:28+09:00</updated>
+  <updated>2013-05-19T19:56:18+09:00</updated>
   <id>http://alanbradburne.com/</id>
   <author>
     <name><![CDATA[Alan Bradburne]]></name>
@@ -18,9 +18,7 @@
     <link href="http://alanbradburne.com/blog/2010/03/10/nosql-talk/"/>
     <updated>2010-03-10T16:31:00+09:00</updated>
     <id>http://alanbradburne.com/blog/2010/03/10/nosql-talk</id>
-    <content type="html"><![CDATA[<p>h1. NoSQL Talk At Reading Geek Night</p>
-
-<p>Last night I gave a brief introduction to NoSQL at the &ldquo;Reading Geek Night&rdquo;:<a href="http://readinggeeknight.com/">http://readinggeeknight.com/</a> . I hope it was interesting and informative and whet your appetite for learning more about some of the the alternative datastores out there.</p>
+    <content type="html"><![CDATA[<p>Last night I gave a brief introduction to NoSQL at the &ldquo;Reading Geek Night&rdquo;:<a href="http://readinggeeknight.com/">http://readinggeeknight.com/</a> . I hope it was interesting and informative and whet your appetite for learning more about some of the the alternative datastores out there.</p>
 
 <p>You can download my &ldquo;slides&rdquo;:<a href="http://alanbradburne.com/assets/NoSQL.pdf">http://alanbradburne.com/assets/NoSQL.pdf</a> or find them on &ldquo;scribd&rdquo;:<a href="http://www.scribd.com/doc/28134821/No-SQL">http://www.scribd.com/doc/28134821/No-SQL</a></p>
 
@@ -33,9 +31,7 @@
     <link href="http://alanbradburne.com/blog/2008/10/14/future-of-web-apps/"/>
     <updated>2008-10-14T16:42:00+09:00</updated>
     <id>http://alanbradburne.com/blog/2008/10/14/future-of-web-apps</id>
-    <content type="html"><![CDATA[<p>h1. The Future of Web Apps, London</p>
-
-<p>I spent Thursday and Friday of last week at the &ldquo;Future of Web Apps&rdquo;:<a href="http://london2008.futureofwebapps.com/">http://london2008.futureofwebapps.com/</a> conference in London. The event was organised by &ldquo;Carsonified&rdquo;:<a href="http://carsonified.com">http://carsonified.com</a> and I have to say, they did a spectacular job. The event was possibly the smoothest-run and slickest events I&rsquo;ve been too. That&rsquo;s not to say I thought it was perfect, but it was an impressive event overall.</p>
+    <content type="html"><![CDATA[<p>I spent Thursday and Friday of last week at the &ldquo;Future of Web Apps&rdquo;:<a href="http://london2008.futureofwebapps.com/">http://london2008.futureofwebapps.com/</a> conference in London. The event was organised by &ldquo;Carsonified&rdquo;:<a href="http://carsonified.com">http://carsonified.com</a> and I have to say, they did a spectacular job. The event was possibly the smoothest-run and slickest events I&rsquo;ve been too. That&rsquo;s not to say I thought it was perfect, but it was an impressive event overall.</p>
 
 <p>Videos of a bunch of the talks are up on the FOWA site. Hopefully more videos will be up soon, but they’ve done a great job of getting content up there so quick. He’s my pick of the talks, and my brief thoughts on the conference.</p>
 
